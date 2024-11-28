@@ -1,3 +1,5 @@
 Just some old code trying to use enzyme with numba and nutpie
 
 I don't expect anything in here to still work.
+
+This was inside the Enzyme repository, so that it could find the llvm plugin.
